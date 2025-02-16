@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Hirushan-Subasinghe
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Hirushan-Subasinghe/Hirushan-Subasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### 👋 Hi there! I'm Hirushan  
+
+I'm a passionate **mobile app developer** and **software engineer** with a keen interest in **data science**. I enjoy building intuitive and efficient applications using modern technologies.  
+
+### 🔥 Tech Stack  
+- 💻 **Web Development:** HTML, CSS, JavaScript, React, Bootstrap  
+- 📱 **Mobile Development:** Flutter, React Native  
+- 🚀 **Other Interests:** Software Engineering, Data Science  
+
+### 💡 What I'm Working On  
+- Building innovative mobile apps  
+- Exploring data science and AI applications  
+- Improving my software engineering skills  
+
+### 📫 Let's Connect!  
+- GitHub: [[github.com/yourusername](https://github.com/Hirushan-Subasinghe)]
+- LinkedIn: [Your LinkedIn Profile]  
+
+Feel free to collaborate on projects or reach out for discussions! 🚀  
