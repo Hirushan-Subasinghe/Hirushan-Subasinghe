@@ -15,7 +15,7 @@ I'm a passionate **mobile app developer** and **software engineer** with a keen 
 - Improving my software engineering skills  
 
 ### 📫 Let's Connect!  
-- GitHub: [[github.com/yourusername](https://github.com/Hirushan-Subasinghe)]
-- LinkedIn: [Your LinkedIn Profile]  
+- GitHub: [[github.com/Hirushan-Subasinghe](https://github.com/Hirushan-Subasinghe)]
+- LinkedIn: [im-hirushan-subasinghe]  
 
 Feel free to collaborate on projects or reach out for discussions! 🚀  
