@@ -1,11 +1,55 @@
-Software Engineering Undergraduate passionate about building impactful digital products.
+<h1 align="center">Hi 👋, I'm Hirushan Subasinghe</h1>
 
-⚡ Full-Stack Development
-📱 Mobile Application Development
-☁️ Cloud & Microservices
-🤖 AI-Powered Applications
-🔒 Cybersecurity Enthusiast
+<p align="center">
+  <b>Passion-driven code, innovation-driven solutions.</b>
+</p>
 
-Tech Stack: React • Next.js • Node.js • TypeScript • Flutter • React Native • Java • Spring Boot • Firebase • MySQL
+<p align="center">
+Software Engineering Undergraduate • Full-Stack Developer • Mobile App Developer
+</p>
 
-Building software that solves real-world problems, one project at a time.
+---
+
+### 🚀 About Me
+
+💻 Building modern web and mobile applications
+
+📱 Experienced with Flutter, React Native, React, Next.js, Node.js & Spring Boot
+
+⚡ Passionate about Software Engineering, AI Applications, Microservices & Cloud Technologies
+
+🌍 Developed business solutions including POS systems, reservation systems, admin dashboards, and location-based applications
+
+🎯 Always learning, building, and solving real-world problems through technology
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+
+Java • JavaScript • TypeScript • Python • C/C++ • SQL
+
+**Frontend**
+
+React • Next.js • Flutter • React Native • HTML • CSS • Tailwind CSS
+
+**Backend**
+
+Node.js • Express.js • Spring Boot • Firebase • REST APIs
+
+**Database**
+
+MySQL • PostgreSQL • Prisma
+
+**Tools**
+
+Git • GitHub • Docker • Figma • Postman
+
+---
+
+### 📫 Connect With Me
+
+LinkedIn • Portfolio • Email
+
+> "Turning ideas into scalable software solutions."
